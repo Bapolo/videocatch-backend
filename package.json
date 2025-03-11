@@ -15,5 +15,9 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "youtube-dl-exec": "^3.0.16"
+  },
+  "engines":{
+    "node": "18.x",
+    "npm": "9.x"
   }
 }
